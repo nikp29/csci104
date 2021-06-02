@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "sstream": "cpp",
+        "__node_handle": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}

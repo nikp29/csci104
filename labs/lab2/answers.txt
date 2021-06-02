@@ -1,0 +1,12 @@
+Answers go here!
+
+Problem 1:
+On line 252: changed invaders[invaderRow][invaderRow] to invaders[invaderRow][invaderCol]
+
+Problem 2: deleted the semicolon on line 27
+
+Problem 3: on line 62 changed for (int colIdx = 0; colIdx < numCols; ) to for (int colIdx = 0; colIdx < numCols; ++colIdx)
+
+Problem 4: on line 218 changed DeallocateWarriors(invaders, n, m); to DeallocateWarriors(invaders, m, n);
+
+Problem 5: Line 113 if (invader->power < protector->power) to if (invader->power > protector->power) if the invader has more power then protectorLost should be true thus i changed the line to if (invader->power > protector->power)

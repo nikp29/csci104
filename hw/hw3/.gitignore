@@ -1,0 +1,6 @@
+.vscode
+*.json
+coloring
+*.map
+main
+main.cpp

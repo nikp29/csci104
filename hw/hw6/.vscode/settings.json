@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "memory": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp"
+    }
+}
